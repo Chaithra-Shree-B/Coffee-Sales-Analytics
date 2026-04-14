@@ -1,6 +1,7 @@
 ☕ Coffee Shop Sales Analytics Dashboard
 
 📊 Overview
+
 This project presents an interactive Coffee Shop Sales Analytics Dashboard built using Tableau. It provides deep insights into sales performance, product trends, pricing behavior, and category contribution to help drive smarter business decisions.
 
 🚀 Key Insights
@@ -34,6 +35,7 @@ This dashboard helps stakeholders:
 
 📂 Dataset
 Coffee Shop Transactions Dataset
+
 Includes: Product Type, Category, Sales, Quantity, Price, Date
 
 🔗 [Live Dashboard](https://public.tableau.com/views/CoffeeSalesAnalytics_17688437223000/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
