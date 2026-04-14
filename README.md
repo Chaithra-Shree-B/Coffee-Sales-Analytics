@@ -21,9 +21,7 @@ This project presents an interactive Coffee Shop Sales Analytics Dashboard built
 - Tableau Public – Data visualization
 - Data Analysis – Aggregations, trend analysis, KPI tracking
 
-📷 Dashboard Preview
-
-(Add your thumbnail image here)
+📷 [Dashboard Preview](https://github.com/Chaithra-Shree-B/Coffee-Sales-Analytics/blob/main/Coffee%20Sales%20Dashboard.png)
 
 
 💡 Business Value
